@@ -1,3 +1,5 @@
+Link download: https://files.catbox.moe/d9fiff.zip
+
 # Planeta Ecologiei
 © Planetary, 2025 / Concurs InfoMoisil 2025
 
