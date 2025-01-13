@@ -13,6 +13,8 @@ Controale:
 
 Se poate muri din cauza lipsei de oxigen/apă, dar și dacă există prea multe deșeuri.
 
+Aplicația efectivă se poate găsi in folderul "Builds"
+
 ## Programe folosite
 
 **Programe folosite des:**
